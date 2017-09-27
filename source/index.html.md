@@ -1,29 +1,28 @@
 ---
-title: API Reference
+title: Alternative Controller Bootcamp
 
 language_tabs: # must be one of https://git.io/vQNgJ
-  - shell
-  - ruby
-  - python
-  - javascript
+  - cpp
 
 toc_footers:
-  - <a href='#'>Sign Up for a Developer Key</a>
+  - <a href='https://twitter.com/j3rrytron'>Created by @j3rrytron</a>
+  - <a href='http://jerrytron.com'>Contact or hire at jerrytron.com</a>
   - <a href='https://github.com/tripit/slate'>Documentation Powered by Slate</a>
 
 includes:
-  - errors
+  - shopping
+  - software
 
 search: true
 ---
 
 # Introduction
 
-Welcome to the Kittn API! You can use our API to access Kittn API endpoints, which can get information on various cats, kittens, and breeds in our database.
+Welcome to the Alt Ctrl Bootcamp! This set of information and tutorials is meant for creative people that want to get started creating hardware interfaces for digital experiences. Specifically, we will be focusing on emulating _human interface devices_ or HIDs. These are a class of interface device that anyone using a computer is already used to and just about any computing system is capable of talking to.
 
-We have language bindings in Shell, Ruby, and Python! You can view code examples in the dark area to the right, and you can switch the programming language of the examples with the tabs in the top right.
+Ok, let's take a step back from the jargon for a second! What we are talking about are keyboards, mice, joysticks, gamepads, even touch screens! These are _interfaces_ because they allow you, the human, to _interface_ with the machine, to tell it what you want it to do. In fact, I bet you are using one right now!
 
-This example API documentation page was created with [Slate](https://github.com/tripit/slate). Feel free to edit it and use it as a base for your own API's documentation.
+It is because these devices are so common and how they talk standardized that we can make our _own_ interfaces that _pretend_ to act like them.
 
 # Authentication
 
