@@ -7,14 +7,14 @@ Follow this link and download the latest version of the Arduino IDE for your ope
 
 _If you are on a Mac, make sure to move the downloaded app to your **Applications** folder._
 _For Windows, I recommend the Installer version, so follow installation instructions after download._
-(**Arduino Download Page**)[https://www.arduino.cc/en/Main/Software]
+[**Arduino Download Page**](https://www.arduino.cc/en/Main/Software)
 
 Got it? Great! Next task!
 
 ## Teensyduino Addon
 Again, follow the link and download the version for your operating system. For Windows and Mac you'll want to double-click the download and run the installer.
 
-(**Teensyduino Download Page**)[https://www.pjrc.com/teensy/td_download.html]
+[**Teensyduino Download Page**](https://www.pjrc.com/teensy/td_download.html)
 
 _For Mac, it will ask you to **Select Arduino Folder**. Assuming you moved it to the **Applications** folder, you can scroll down until you fine **Arduino.app/**, select it, and click next._
 
