@@ -56,3 +56,5 @@ Nervous yet? Time to fire things up!
 Did it work?!? Holy crap! This is huge! Seriously, if you haven't done much or anything with electronics, getting your environment properly set up to code tiny computers is a big deal! Be proud of yourself because you now have a tiny HID emulator pretending to be a keyboard!
 
 Let's hook up a button and see something **happen**! After that, we'll take a step back to learn more about the Teensy and what else we can do with the code, but you deserve to experience the fruits of your labor. <3
+
+_More is coming very soon! Deadlines before GDEX delayed me getting the rest of the tutorial up, but it is written, just needs posting!_
